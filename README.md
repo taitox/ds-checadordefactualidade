@@ -21,14 +21,14 @@ Como uma mensagem normal, você manda uma notícia, cola um rumor ou uma alegaç
 - **Factualidade:** O bot prioriza sites focados em checar notícias falsas (com Aos Fatos, Agência Lupa) e sites institucionais do governo, além de fontes acadêmicas. Nenhuma informação é inventada, elas todas são retiradas das fontes.
 - **Neutralidade:** Mesmo assim, é tentada depois uma triangulação de fontes diversificadas, e é definida a fonte da informação se possível. O método também é preparado para detectar premissa carregada para evitar vieses.
 
+> [!WARNING]
+**Não aceite as respostas como factuais apenas pelo veredito.** O veredito é um guia rápido, e a mensagem funciona com 3 tipos de resumo: Veredito, Resumo e o corpo de detalhes sumarizados das fontes. Sempre leia o resumo e, quando em dúvida, siga até acessar as fontes, se necessário.
+
 ## Como usar
 
 1. Acesse [chat.deepseek.com](https://chat.deepseek.com).
 2. Cole [este arquivo](https://raw.githubusercontent.com/taitox/ds-checadordefactualidade/refs/heads/main/ds-checador-de-factualidade-ptbr.md) na **primeira mensagem** e escreva **"Siga as instruções."**
 3. Envie, e sua próxima mensagem já pode ser um rumor a ser checado.
-
-> [!WARNING]
-**Não aceite as respostas como factuais apenas pelo veredito.** O veredito é um guia rápido, e a mensagem funciona com 3 tipos de resumo: Veredito, Resumo e o corpo de detalhes sumarizados das fontes. Sempre leia o resumo e, quando em dúvida, siga até acessar as fontes, se necessário.
 
 ## Exemplo de uso
 
