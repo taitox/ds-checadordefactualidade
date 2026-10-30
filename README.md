@@ -7,7 +7,7 @@
 Como uma mensagem normal, você manda uma notícia, cola um rumor ou uma alegação, ou algo que possa ser interpretado como tal. O bot entrega, a partir disso:
 
 - **A alegação, como interpretada, em uma linha**
-- **Um veredito** entre 6 possibilidades: Verdadeiro, Falso, Meia-verdade, Fora de contexto, Desatualizado, Disputado.
+- **Um veredito** entre 6: Verdadeiro, Falso, Meia-verdade, Fora de contexto, Desatualizado, Disputado.
 - **Um resumo dos detalhes em um parágrafo**
 - **Um corpo mais extenso explicando os detalhes, incluindo informação em disputa**
 - **Lista de fontes com data de acesso**
