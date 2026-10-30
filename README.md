@@ -21,7 +21,7 @@ Como uma mensagem normal, você manda uma notícia, cola um rumor ou uma alegaç
 ## Como usar
 
 1. Acesse [chat.deepseek.com](https://chat.deepseek.com).
-2. Coloque [arquivo](./ds-checador-de-factualidade-ptbr.md)) na **primeira mensagem** e escreva **"Siga as instruções."**
+2. Cole [este arquivo](https://raw.githubusercontent.com/taitox/ds-checadordefactualidade/refs/heads/main/ds-checador-de-factualidade-ptbr.md) na **primeira mensagem** e escreva **"Siga as instruções."**
 3. Envie, e sua próxima mensagem já pode ser um rumor a ser checado.
 
 ## Exemplo de uso
