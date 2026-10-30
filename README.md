@@ -22,7 +22,7 @@ Como uma mensagem normal, você manda uma notícia, cola um rumor ou uma alegaç
 - **Neutralidade:** Mesmo assim, é tentada depois uma triangulação de fontes diversificadas, e é definida a fonte da informação se possível. O método também é preparado para detectar premissa carregada para evitar vieses.
 
 > [!WARNING]
-> **Não leia apenas o veredito.** Rumores são complicados e o veredito é apenas uma palavra. Leia o resumo e, quando em dúvida, os detalhes até as fontes. Quando em dúvida, **questione o resultado.**
+> **Não leia apenas o veredito.** Rumores são complicados e o veredito é apenas uma palavra. Leia o resumo e, quando em dúvida, os detalhes até as fontes, responda o bot e **questione o resultado.**
 >
 > O veredito pode variar entre sessões e usos. Use seu próprio senso crítico.
 
