@@ -31,19 +31,23 @@ Como uma mensagem normal, você manda uma notícia, cola um rumor ou uma alegaç
 
 **Resposta:**
 >1. **Alegação enquadrada**
->Getúlio Vargas se vestia de palhaço nas horas vagas.
+>
+> Getúlio Vargas se vestia de palhaço nas horas vagas.
 >
 >**Veredito: Falso**
 >
 >2. **Resumo geral**
+>
 >É falso porque não há fotografia, documento, ata, correspondência ou testemunho que registre Vargas vestido de palhaço; as fontes descrevem seu lazer com charutos, golfe, chimarrão e trajes informais de gaúcho, e a única menção a palhaço é uma foto em que ele sorri para a palhaçada de outra pessoa.
 >
 >---
 >
 >3. **Checagem registrada**
+>
 >Sem checagem registrada até 30/10/2026, porque nenhum dos seis checadores listados publicou verificação sobre esta alegação específica.
 >
 >4. **Evidência primária**
+>
 >Sem fonte primária até 30/10/2026, porque não há fotografia, documento, ata, correspondência ou testemunho que registre Vargas caracterizado de palhaço; o registro iconográfico mais próximo mostra Vargas sorrindo diante da palhaçada do Sr. Barreto Pinto, sem que o próprio Vargas estivesse fantasiado.
 >
 >5. **Triangulação e diversidade**
