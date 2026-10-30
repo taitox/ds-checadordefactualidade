@@ -24,7 +24,7 @@ Como uma mensagem normal, você manda uma notícia, cola um rumor ou uma alegaç
 > [!WARNING]
 > **Não leia apenas o veredito.** Rumores são complicados e o veredito é apenas uma palavra. Leia o resumo e, quando em dúvida, os detalhes até as fontes, responda o bot e **questione o resultado.**
 >
-> O veredito pode variar entre sessões e usos. Use seu próprio senso crítico.
+> O veredito pode variar entre sessões. Use seu próprio senso crítico.
 
 ## Como usar
 
