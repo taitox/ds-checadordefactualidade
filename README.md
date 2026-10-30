@@ -32,10 +32,10 @@ Como uma mensagem normal, você manda uma notícia, cola um rumor ou uma alegaç
 
 ## Exemplo de uso
 
-**Rumor:**
+### **Rumor:**
 > Getúlio Vargas se vestia de palhaço nas horas vagas?
 
-**Resposta:**
+### **Resposta:**
 >1. **Alegação enquadrada**
 >
 > Getúlio Vargas se vestia de palhaço nas horas vagas.
