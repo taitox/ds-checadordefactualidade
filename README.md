@@ -1,6 +1,6 @@
 # Checador de Factualidade (PT-BR) para Deepseek
 
-> Skill de checagem de fatos em português, feito para ser usado no Deepseek web. Analisa alegações, triangula fontes e entrega um veredito baseado em Verdadeiro/Falso, entre outros.
+> Skill de checagem de fatos em português, feito para ser usado no Deepseek web. Analisa alegações, triangula fontes e entrega um veredito baseado em Verdadeiro/Falso/outros.
 
 ## Como funciona
 
