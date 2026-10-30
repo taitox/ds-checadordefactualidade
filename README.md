@@ -12,6 +12,9 @@ Como uma mensagem normal, você manda uma notícia, cola um rumor ou uma alegaç
 - **Um corpo mais extenso explicando os detalhes, incluindo informação em disputa**
 - **Lista de fontes com data de acesso**
 
+> [!NOTE]
+> Você pode escrever qualquer coisa: o bot vai interpretar se deve checar algo, ou se é um pedido de esclarecimento. De qualquer forma, evite desviar do propósito para não atrapalhar o contexto.
+
 ## Por que usar isso?
 
 - **Simplicidade:** Apenas coloque uma premissa, e o bot te diz se é verdade ou não, com um resumo rápido do que foi encontrado. Se quiser mais detalhes, é só ler o resto.
@@ -23,6 +26,9 @@ Como uma mensagem normal, você manda uma notícia, cola um rumor ou uma alegaç
 1. Acesse [chat.deepseek.com](https://chat.deepseek.com).
 2. Cole [este arquivo](https://raw.githubusercontent.com/taitox/ds-checadordefactualidade/refs/heads/main/ds-checador-de-factualidade-ptbr.md) na **primeira mensagem** e escreva **"Siga as instruções."**
 3. Envie, e sua próxima mensagem já pode ser um rumor a ser checado.
+
+> [!WARNING]
+**Não aceite as respostas como factuais apenas pelo veredito.** O veredito é um guia rápido, e a mensagem funciona com 3 tipos de resumo: Veredito, Resumo e o corpo de detalhes sumarizados das fontes. Sempre leia o resumo e, quando em dúvida, siga até acessar as fontes, se necessário.
 
 ## Exemplo de uso
 
