@@ -63,5 +63,5 @@ Como uma mensagem normal, você manda uma notícia, cola um rumor ou uma alegaç
 >- CEDAP/UFRGS — “Um Documento Histórico” (1957-03-18; publicado em 2025-03-28): https://cedap.ufrgs.br/xmlui/handle/20.500.11959/7913?locale-attribute=pt_BR
 >- Museu da República — “Fotografias de Getúlio Vargas em residências” (s.d.): https://atom-museurepublica.museus.gov.br/index.php/getulio-vargas-sentado-a-mesa-durante-uma-refeicao-em-uma-residencia
 >- Retrospecta — “Curiosidades sobre a Era Vargas” (2017-09-25): https://retrospecta.wordpress.com/2017/09/25/curiosidades-sobre-a-era-vargas/
-
-Deepseek - Checagem de factualidade em: 30/10/2026</summary>
+>
+>Deepseek - Checagem de factualidade em: 30/10/2026</summary>
