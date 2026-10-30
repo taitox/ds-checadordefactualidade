@@ -34,6 +34,8 @@ Como uma mensagem normal, você manda uma notícia, cola um rumor ou uma alegaç
 
 ## Exemplo de uso
 
+Este exemplo está colado tal e qual como foi enviado (rumor) pelo usuário e entregue (resposta) pelo bot. Nenhuma alteração foi feita se não para formatar o texto para ser ainda mais visualmente fiel ao resultado entregue.
+
 ### **Rumor:**
 > Getúlio Vargas se vestia de palhaço nas horas vagas?
 
